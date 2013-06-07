@@ -5,4 +5,4 @@ This is an Alfred 2 workflow designed to assist in the easy addition of [nvremin
 
 Note: after you import the workflow into Alfred, you’ll need to edit the file paths in the included Bash script so that the workflow will know which file you want to use.
 
-For further information, please see [this blog post]().
+For further information, please see [this blog post](http://jarrodwhaley.com/blog/2013/06/07/nvremind-reminders-via-drafts-and-alfred-2/).
